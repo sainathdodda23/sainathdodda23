@@ -2,11 +2,13 @@
 
 ### Software Engineering · System Design · AI Engineering
 
-**Learn deeply. Build thoughtfully. Design for scale.**
+**Turning curiosity into code. Turning ideas into systems.**
 
-Welcome to my engineering knowledge hub — a growing collection of practical implementations, technical notes, architecture designs, and experiments.
+Welcome to my engineering playground — where **backend engineering meets system design and AI innovation.**
 
-My focus is on strengthening engineering fundamentals, building scalable backend systems, and exploring AI-powered applications.
+From mastering core concepts and designing scalable architectures to building intelligent AI-powered applications, this is where I experiment, solve problems, and turn what I learn into something real.
+
+**Explore. Engineer. Evolve.** 🚀
 
 ## 🧭 Engineering Domains
 
